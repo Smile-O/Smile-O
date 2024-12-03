@@ -1,26 +1,13 @@
-- 👋 Hi, I’m @Smile-O
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Smile-O/Smile-O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=wuhobin&label=Profile%20views&color=0e75b6&style=flat" alt="Aurora" /> </p>
 
 
 <div align="center">
-  <a href="https://www.wuhobin.top/">
+  <a href="https://exio.top/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008c8c&width=435&lines=热爱可抵岁月漫长！;让正确的事情持续发生！&center=true&size=27" alt="Typing SVG" />
   </a>
 </div>
 
-## Hi, 👋 I'm Aurora
+## Hi, 👋 I'm @Smile-O
 
 [![wuhobin.top](https://img.shields.io/badge/-wuhobin.top-00A98F?&logo=About.me&logoColor=FFFFFF)](https://www.wuhobin.top/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub)](https://github.com/wuhobin)
