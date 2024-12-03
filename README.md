@@ -42,4 +42,5 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes%23-000?&logo=Kubernetes&logoColor=239120)
 [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://exio.top/)
 
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smile-O&layout=compact" height="137px" /></span><span><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Smile-O&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </span>
 
