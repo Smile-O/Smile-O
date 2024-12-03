@@ -9,8 +9,8 @@
 
 ## Hi, 👋 I'm @Smile-O
 
-[![wuhobin.top](https://img.shields.io/badge/-wuhobin.top-00A98F?&logo=About.me&logoColor=FFFFFF)](https://www.wuhobin.top/) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub)](https://github.com/wuhobin)
+[![wuhobin.top](https://img.shields.io/badge/-wuhobin.top-00A98F?&logo=About.me&logoColor=FFFFFF)](https://exio.top/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub)](https://github.com/Smile-O)
 
 
 ### 🚀 Languages
