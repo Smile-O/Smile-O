@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- 标题动画 -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=%E7%83%AD%E7%88%B1%E5%8F%AF%E6%8A%B5%E5%B2%81%E6%9C%88%E6%BC%AB%E9%95%BF%EF%BC%81;%3C%E8%AE%A9%E6%AD%A3%E7%A1%AE%E7%9A%84%E4%BA%8B%E6%83%85%E6%8C%81%E7%BB%AD%E5%8F%91%E7%94%9F%EF%BC%81" alt="Typing SVG" /></a>
+[  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=%E7%83%AD%E7%88%B1%E5%8F%AF%E6%8A%B5%E5%B2%81%E6%9C%88%E6%BC%AB%E9%95%BF%EF%BC%81;%3C%E8%AE%A9%E6%AD%A3%E7%A1%AE%E7%9A%84%E4%BA%8B%E6%83%85%E6%8C%81%E7%BB%AD%E5%8F%91%E7%94%9F%EF%BC%81" alt="Typing SVG" /></a>](https://readme-typing-svg.demolab.com/demo/?weight=600&size=30&center=true&vCenter=true&separator=%3C&lines=%E7%83%AD%E7%88%B1%E5%8F%AF%E6%8A%B5%E5%B2%81%E6%9C%88%E6%BC%AB%E9%95%BF%EF%BC%81;%3C%E8%AE%A9%E6%AD%A3%E7%A1%AE%E7%9A%84%E4%BA%8B%E6%83%85%E6%8C%81%E7%BB%AD%E5%8F%91%E7%94%9F%EF%BC%81)
   
   <!-- 波浪分隔线 -->
   <img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
