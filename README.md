@@ -1,10 +1,25 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Smile-O&label=Profile%20views&color=0e75b6&style=flat" alt="Aurora" /> </p>
+<div align="center">
+  
+  <!-- 标题动画 -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&background=FF000000&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Smile-O+%F0%9F%91%8B;Welcome+to+my+Smile-O+World!+%F0%9F%8C%9F" alt="Typing SVG" />
+  
+  <!-- 波浪分隔线 -->
+  <img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+  
+  <!-- 动态蛇形图 -->
+  <img src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" />
 
+</div>
+
+<!-- 个人资料徽标 -->
+<div align="center">
+  <a href="https://exio.top"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+  <a href="mailto:my@52ai.org"><img src="https://img.shields.io/badge/Email-邮箱-blue" /></a>&emsp;
+  <img src="https://komarev.com/ghpvc/?username=Smile-O&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+</div>
 
 <div align="center">
-  <a href="https://exio.top/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008c8c&width=435&lines=热爱可抵岁月漫长！;让正确的事情持续发生！&center=true&size=27" alt="Typing SVG" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
 </div>
 
 ## Hi, 👋 I'm @Smile-O
