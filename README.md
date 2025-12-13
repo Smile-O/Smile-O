@@ -18,9 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=Smile-O&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
-</div>
+
 
 ## Hi, 👋 I'm @Smile-O
 
